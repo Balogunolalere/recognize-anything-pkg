@@ -1,3 +1,6 @@
-include ram/configs/*.json
-include ram/configs/swin/*.json
-include ram/data/*.txt
+include datasets/*
+include images/*
+include ram/configs/*
+include ram/data/*
+include ram/models/*
+include ram/utils/*
